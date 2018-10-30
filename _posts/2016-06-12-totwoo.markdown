@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Totwoo北京心有灵犀科技有限公司"
+date:   2016-05-12 22:01:43 +0530
+categories: 工作经历
+---
+**2015/06—2016/06**
+***高级程序员（django后台&BLE MCU固件开发）***
+1. 负责Web&APP API后端架构设计，并使用django混合tornado，结合Mysql、Mongodb、redis存储技术实现；使用爬虫抓取用户推荐数据；使用docker部署。 
+2. 负责设计固件程序结构，并在NRF51822 MCU上使用FreeRTOS框架实现；设计并实现了低功耗的记步算法（20mAh电池在NRF51822上可以待机6天）。

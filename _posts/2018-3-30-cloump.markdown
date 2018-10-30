@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Cloump（北京科浪扑技术发展有限公司）"
+date:   2018-03-30 22:01:43 +0530
+categories: 工作经历
+---
+**2017/07-2018/03**
+***后端程序员***
+1. 负责Cloump公司的PaaS平台软件开发，使该PaaS平台初步作为公司DevOps平台一部分运行。具体做了以下：
+    * 定义了可扩展Provider的PaaS平台架构；
+    * 使用python实现；
+    * 完成了AWS与阿里云的Provider；
+    * 在此PaaS平台上设计定义了服务的Main Stack模版；
+    * 使用Docker对公司PaaS进行部署、测试。
+    * Tornado 下的TDD开发；
+ 2. 在AWS和阿里云上使用开发的PaaS平台对测试环境、生产环境进行运维。
+ 3. 使用Tornado + Elasticsearch + Cassandra 实现API搜索和数据存储功能服务。
+ 4. 使用Tornado + Cassandra实现后台API Throttle模块。
+ 5. Cassandra集群配置、性能测试。
+ 6. 使用Fluentd + Tornado实现日志Gateway，并开发日志分析shell脚本。
+ 7. 使用Angular 1.5 + ES6 实现部分前端功能模块。
+ 8. 试验使用Golang实现核心API运行引擎。
+ 9. 编写爬虫获取大量SaaS、IaaS平台的HTTP API文档，并生成swagger 2.0格式文档，作为API引擎的运行元素。
+ 10. 业余时间使用Tensorflow实现图像检测应用。
+
+
